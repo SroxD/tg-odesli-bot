@@ -136,10 +136,7 @@ class OdesliBot:
         '\n'
         '<b>Supported platforms:</b> {supported_platforms}.\n'
         '\n'
-        'The bot is open source. Your feedback, suggestions and PRs are '
-        'welcome: <a href="https://github.com/9dogs/tg-odesli-bot">GitHub</a>.'
-        '\n'
-        'Powered by a great <a href="https://odesli.co/">Odesli</a> service.'
+        'Powered by a great <a href="https://t.me/UserLazyXBot">UserLazy</a> Project.'
     )
 
     def __init__(self, config: Optional[Config] = None, *, loop=None):
